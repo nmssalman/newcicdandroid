@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "api-7857354141055756493-937852",
+  "private_key_id": "3bda033574004450095d4156e67f61a9097b54bb",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCpdns+uxk5P1yn\nNhYGvrbdqy+vomOPFtDjlE3o7Ynj/StIx/+xiCu48b6qKiyjhHA5rfRt//y9eQVa\nVtcuGSXbxaks2nh4tvRmQbQ6dvEIWipYKQOFiZbOqz2ikYFoWrdlchmSaEKcQx1P\nQyuq626aBzRdqlo7kJj6P5Tz+tYexFtwbenHCDi/wwYkLJuoi1XjfLx/iNMVi3bz\n8jMNY3h5V+CaUJNMCVLY0uxu/hrNl9Zhdr+nPPFw9Z8PM8sOdlovhgYlqijvOZKV\nm1V8xder6NVFbkTEORNE7AyilnD5ddzkXZwYjqHgrGqec7JqP89l/Gb7uJTW7660\nrXBdWrP5AgMBAAECggEAFV+L6kzLQODotO85pnah1kHrxQVgdLDePkHbdLQW9uIc\ntjSBX5kK2Kvmzgv9Ls96nw+9Wy1U6WnM3sjCoX4K/BXJQU65sJH0r7v8OP585n6G\nxjFAEDTbCCxpXOporap5ZIpYRtKvCgnd9bwFUyyX+cXMWT7t3ALgBHoF9aKupFkP\njb+RkUc2zLMeMLXo7nKrcH/F4LEFAmN9P+AaIV9R+EGNSjnXgBPP8QV5uog/FXGg\na+ps0z/fQ1XYGGVLOsQYtjf1orMnzi48U4O3JcxI6M9+XnTdZ8JwDFHkOYEu5I2j\n/doPfTBdZXp94LllWY2jpRuMCVuumOfwMYbbN/2RTQKBgQDaIrFMcB1374HZrgI3\nKk9iHrRz7CQVMASLrv0Yx9vA8M/g+jsBG1ZTelfUW0qJJeKkbteLbt/MfFX8s252\nLXv+U0sdQF53B+3CHFxW0PoNNvD3CnyjsPZ4J9SP/eI/rEQCuwxQaH9W6oyMjFVK\nnBQrsj67+73MOY7bOZKNF+A7jQKBgQDG4OpvNnNTbwfnVNxZOVfqOW3ANfToCSTY\nMf/7J3NvidjLDQdu9oiNC0t50l5XJwQbKM2PdLKEGa9cqnjWLIOpmI2Dr0fato3S\nSw0gTiwa0vv3WXNy/HxZkhZU8wRxLBnbGzNp1JhCnJ8KINpCRRWqwYJmcL8kbRPc\nEZepvUwJHQKBgBGvGFKLEEiF2TANhE52lqLsvFJdhXtWPjgYwpn8sdsNarzhbGEl\nlzUDSRWFJSDDOoF8HutF3MzWE5596WmZPGEc3Y0Mh9v8f5Dp/a5oGK1zk8tjRUF7\n+i85g2j8+xeQXp8eDNyD7DbeovBN/CglSRlVxPI2cWeaDvPE0hWwJtSNAoGAGfbL\nJHHLZJ0ePwlJKyzdWWrd9TYWHyTydncwoC1qWKl6cCfnTIlLEn7i/6iDQIWLd7BA\nBfaKR8zCpCptVCjDl6Se9Q4xJ1Cl+0ppEEqkX2wkEQrQk7Z61YbI+5YugkfrqDtI\n3wwuRKQF72CSngw+4+gXiiA2FB9ZdGWnkzVvc9ECgYAozrdU0IEOeprBz+zxke2E\nnEIK9uJtiZOEfinc/1QAOOSfgDbzTpsQpZGJL71AC62xoEtApyZsBfRINOjRwg/d\n4YhPfkj20gThcH4jpTmpBRD4Ea29Jq3pj4IdgPKb5o0T46ZzGprmCQR5e+W39yxk\nVpyG9rK4tVp/W4nbk3+FnA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "autoupdatetestdigitalfractal@api-7857354141055756493-937852.iam.gserviceaccount.com",
+  "client_id": "116069772073503787439",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/autoupdatetestdigitalfractal%40api-7857354141055756493-937852.iam.gserviceaccount.com"
+}

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "213083548768",
+    "firebase_url": "https://cicdtestingdigitalfractal.firebaseio.com",
+    "project_id": "cicdtestingdigitalfractal",
+    "storage_bucket": "cicdtestingdigitalfractal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213083548768:android:439a8b8fd77a109a9ae705",
+        "android_client_info": {
+          "package_name": "nmssalman.global.cicdsample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "213083548768-s0bml26ma069lbfutjae1f3k69cqujvr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "nmssalman.global.cicdsample",
+            "certificate_hash": "425b84ae5d26a301cfc5fdadc9adf90f1f3686e3"
+          }
+        },
+        {
+          "client_id": "213083548768-o90fqql26344atkh9jn4ear822li0sko.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoh7wSgXf6YPPa6tx2iIY-bm3bPec64F4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "213083548768-o90fqql26344atkh9jn4ear822li0sko.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
