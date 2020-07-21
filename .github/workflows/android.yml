@@ -24,7 +24,6 @@ jobs:
       uses: r0adkll/upload-google-play@v1
       with:
           serviceAccountJson: /app/googleservice.json
-          packageName: com.example.MyApp
-          releaseFile: ${{ SIGNED_RELEASE_FILE}}
+          packageName: nmssalman.global.cicdsample
           track: beta
           userFraction: 0.33
