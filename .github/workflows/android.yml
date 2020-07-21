@@ -19,11 +19,3 @@ jobs:
         java-version: 1.8
     - name: Build with Gradle
       run: ./gradlew build
-     
-    - name: upload artifact to Firebase App Distribution
-      uses: r0adkll/upload-google-play@v1
-      with:
-          serviceAccountJson: /app/googleservice.json
-          packageName: nmssalman.global.cicdsample
-          track: beta
-          userFraction: 0.33
