@@ -18,7 +18,7 @@ android {
 
     signingConfigs {
         release {
-            storeFile file('/Users/mohamedsalman/Documents/Canada Company/Projects/Continuous Integration/test')
+            storeFile file('app/test')
             storePassword "123456"
             keyAlias "key0"
             keyPassword "123456"
