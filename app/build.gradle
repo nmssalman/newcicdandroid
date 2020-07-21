@@ -11,8 +11,8 @@ android {
         minSdkVersion 19
         compileSdkVersion 29
         targetSdkVersion 29
-        versionCode 5
-        versionName "5.0"
+        versionCode 6
+        versionName "6.0"
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
 
@@ -36,7 +36,7 @@ android {
 play {
     serviceAccountCredentials = file("googleservice.json")
     track = "production"
-    releaseName = "My custom release name"
+    releaseName = "New Release"
 }
 
 
